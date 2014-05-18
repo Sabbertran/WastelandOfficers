@@ -1,0 +1,14 @@
+name: WastelandOfficers
+main: me.sabbertran.wastelandofficers.WastelandOfficers
+version: 1.0
+website: http://www.sabbertran.tk/
+author: Sabbertran
+description: Controls the officer functions on a server
+commands:
+  officer:
+    description: Main Officer command. Use /officer help for more information
+    usage: "Use /officer help for more information"
+    aliases: [offi]
+  bounty:
+    description: Bounty command
+    usage: "Use /bounty"
